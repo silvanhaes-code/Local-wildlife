@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Local Wildlife</title>
+  <meta name="description" content="Learn about local wildlife — trees, plants, birds and animals of England, Germany and Virginia (USA)." />
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <meta name="theme-color" content="#2f6b3d" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0f1b12" media="(prefers-color-scheme: dark)" />
+
+  <!-- iOS "Add to Home Screen" -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Wildlife" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-180.png" />
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header class="app-header">
+    <a class="brand" href="#/" aria-label="Home">
+      <span class="brand-mark" aria-hidden="true">🌿</span>
+      <span class="brand-text">Local Wildlife</span>
+    </a>
+    <nav class="crumbs" id="crumbs" aria-label="Breadcrumb"></nav>
+  </header>
+
+  <main id="app" class="app" aria-live="polite">
+    <p class="loading">Loading…</p>
+  </main>
+
+  <footer class="app-footer">
+    <a href="credits.html">Image credits &amp; licenses</a>
+    <span>·</span>
+    <span>A wildlife learning app</span>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

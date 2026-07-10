@@ -1,0 +1,396 @@
+{
+  "region": "virginia",
+  "region_name_en": "Virginia (USA)",
+  "local_language": "en",
+  "bilingual": false,
+  "categories": {
+    "trees": [
+      {
+        "slug": "flowering-dogwood",
+        "name_en": "Flowering Dogwood",
+        "name_local": "Flowering Dogwood",
+        "scientific": "Cornus florida",
+        "description_en": "Virginia's state tree, the Flowering Dogwood is a small understory tree famous for its showy spring blooms. What appear to be four white petals are actually modified leaves called bracts surrounding the tiny true flowers. In autumn it produces clusters of bright red berries loved by birds.",
+        "identify_en": "Small tree with four notched white bracts in spring; opposite leaves with curved veins; clustered red fruit in fall.",
+        "habitat_en": "Woodland edges and forest understory throughout Virginia."
+      },
+      {
+        "slug": "eastern-redbud",
+        "name_en": "Eastern Redbud",
+        "name_local": "Eastern Redbud",
+        "scientific": "Cercis canadensis",
+        "description_en": "The Eastern Redbud is a small tree that bursts into clusters of pink-purple flowers directly on its branches and trunk in early spring, before its leaves appear. Its distinctive heart-shaped leaves make it easy to recognize the rest of the year. It is a common and beloved sight along woodland edges and roadsides.",
+        "identify_en": "Rosy-pink flowers growing straight from bare branches in spring; smooth heart-shaped leaves; flat bean-like seed pods.",
+        "habitat_en": "Forest edges, roadsides, and open woods."
+      },
+      {
+        "slug": "red-maple",
+        "name_en": "Red Maple",
+        "name_local": "Red Maple",
+        "scientific": "Acer rubrum",
+        "description_en": "One of the most abundant and adaptable trees in eastern North America, the Red Maple shows red in nearly every season, from spring flowers and reddish twigs to brilliant scarlet autumn foliage. It grows quickly and tolerates a wide range of soils, from swamps to dry uplands.",
+        "identify_en": "Opposite three-to-five-lobed leaves with toothed edges; red twigs, buds, and flowers; paired winged seeds.",
+        "habitat_en": "Wide range of habitats from wet swamps to dry uplands."
+      },
+      {
+        "slug": "white-oak",
+        "name_en": "White Oak",
+        "name_local": "White Oak",
+        "scientific": "Quercus alba",
+        "description_en": "A majestic, long-lived hardwood, the White Oak can grow into a broad, spreading tree over centuries. Its leaves have rounded lobes without bristles, distinguishing it from red oaks. Its acorns are an important food source for deer, turkeys, and squirrels.",
+        "identify_en": "Leaves with rounded, bristle-free lobes; light ashy-gray flaky bark; acorns with warty, shallow caps.",
+        "habitat_en": "Upland forests and mixed hardwood woodlands."
+      },
+      {
+        "slug": "tulip-poplar",
+        "name_en": "Tulip Poplar",
+        "name_local": "Tulip Poplar",
+        "scientific": "Liriodendron tulipifera",
+        "description_en": "Despite its name, the Tulip Poplar is a member of the magnolia family and one of the tallest hardwoods in eastern forests. It bears large greenish-yellow tulip-shaped flowers with orange bands in late spring. Its uniquely four-lobed leaves are unmistakable.",
+        "identify_en": "Distinctive four-lobed leaves with a flat notched tip; tall straight trunk; tulip-shaped orange-and-yellow flowers.",
+        "habitat_en": "Rich, moist forests and slopes."
+      },
+      {
+        "slug": "american-sycamore",
+        "name_en": "American Sycamore",
+        "name_local": "American Sycamore",
+        "scientific": "Platanus occidentalis",
+        "description_en": "The American Sycamore is a huge riverside tree instantly recognized by its mottled, peeling bark that reveals creamy-white patches underneath. It has large maple-like leaves and produces round, dangling seed balls. It is one of the most massive trees of eastern floodplains.",
+        "identify_en": "Flaking bark showing white, tan, and green patches; large broad leaves; round hanging seed balls.",
+        "habitat_en": "Riverbanks, floodplains, and moist bottomlands."
+      },
+      {
+        "slug": "loblolly-pine",
+        "name_en": "Loblolly Pine",
+        "name_local": "Loblolly Pine",
+        "scientific": "Pinus taeda",
+        "description_en": "The Loblolly Pine is the dominant pine of the southeastern coastal plain and a major timber species in Virginia. It grows fast and tall with a straight trunk and forms extensive forests and plantations. Its long needles come in bundles of three.",
+        "identify_en": "Needles in bundles of three, six to nine inches long; reddish-brown scaly bark; spiny egg-shaped cones.",
+        "habitat_en": "Coastal plain and Piedmont, in fields and pine forests."
+      },
+      {
+        "slug": "eastern-white-pine",
+        "name_en": "Eastern White Pine",
+        "name_local": "Eastern White Pine",
+        "scientific": "Pinus strobus",
+        "description_en": "The Eastern White Pine is a tall, soft-textured evergreen with feathery blue-green needles bundled in fives. It has a distinctive tiered, whorled branching pattern and produces long, slender cones. It is most common in Virginia's mountains and higher elevations.",
+        "identify_en": "Soft flexible needles in bundles of five; long narrow cones; horizontal whorled branches.",
+        "habitat_en": "Mountain forests and cool upland slopes."
+      },
+      {
+        "slug": "american-beech",
+        "name_en": "American Beech",
+        "name_local": "American Beech",
+        "scientific": "Fagus grandifolia",
+        "description_en": "The American Beech is a stately forest tree with unmistakable smooth, gray bark that stays sleek even on old trunks. Its glossy toothed leaves often cling through winter as pale tan husks. It produces small triangular nuts prized by wildlife.",
+        "identify_en": "Smooth silvery-gray bark; glossy toothed oval leaves; slender cigar-shaped pointed buds; three-sided nuts.",
+        "habitat_en": "Rich, shaded hardwood forests."
+      },
+      {
+        "slug": "bald-cypress",
+        "name_en": "Bald Cypress",
+        "name_local": "Bald Cypress",
+        "scientific": "Taxodium distichum",
+        "description_en": "The Bald Cypress is a deciduous conifer of southern swamps that drops its soft, feathery needles each autumn. It often grows in standing water and forms distinctive woody 'knees' that project from the roots above the waterline. Its base is typically buttressed and flared.",
+        "identify_en": "Feathery deciduous needles turning rusty in fall; flared buttressed trunk; woody knees rising from water.",
+        "habitat_en": "Swamps, wet bottomlands, and river margins of the coastal plain."
+      }
+    ],
+    "plants": [
+      {
+        "slug": "black-eyed-susan",
+        "name_en": "Black-eyed Susan",
+        "name_local": "Black-eyed Susan",
+        "scientific": "Rudbeckia hirta",
+        "description_en": "The Black-eyed Susan is a cheerful native wildflower with golden-yellow petals surrounding a dark brown central cone. It blooms abundantly through summer in meadows, roadsides, and gardens. Its bristly stems and leaves give it a rough texture.",
+        "identify_en": "Golden-yellow daisy-like petals around a dark brown dome; rough hairy stems and leaves.",
+        "habitat_en": "Fields, meadows, roadsides, and prairies."
+      },
+      {
+        "slug": "virginia-bluebells",
+        "name_en": "Virginia Bluebells",
+        "name_local": "Virginia Bluebells",
+        "scientific": "Mertensia virginica",
+        "description_en": "Virginia Bluebells are a spring ephemeral that carpets moist woodlands with nodding clusters of trumpet-shaped blue flowers. The buds start pink before opening to sky-blue, creating a lovely two-toned display. The soft, smooth foliage dies back by early summer.",
+        "identify_en": "Nodding clusters of pink buds opening to sky-blue trumpet flowers; smooth grayish-green oval leaves.",
+        "habitat_en": "Moist, rich woodlands and floodplains in spring."
+      },
+      {
+        "slug": "butterfly-milkweed",
+        "name_en": "Butterfly Milkweed",
+        "name_local": "Butterfly Milkweed",
+        "scientific": "Asclepias tuberosa",
+        "description_en": "Butterfly Milkweed is a striking native perennial topped with flat clusters of brilliant orange flowers that draw butterflies and other pollinators. Unlike other milkweeds, its stems contain clear rather than milky sap. It is a vital host plant for monarch caterpillars.",
+        "identify_en": "Bright orange flower clusters; narrow lance-shaped leaves; hairy stems with clear sap.",
+        "habitat_en": "Dry fields, prairies, and sunny roadsides."
+      },
+      {
+        "slug": "purple-coneflower",
+        "name_en": "Purple Coneflower",
+        "name_local": "Purple Coneflower",
+        "scientific": "Echinacea purpurea",
+        "description_en": "The Purple Coneflower is a hardy native perennial with pinkish-purple petals that droop back from a spiny, coppery central cone. It is a favorite of bees and butterflies and a popular garden plant. Its seed heads persist into winter, feeding finches and other birds.",
+        "identify_en": "Drooping pink-purple petals around a raised bristly orange-brown cone; coarse rough leaves.",
+        "habitat_en": "Prairies, open woods, meadows, and gardens."
+      },
+      {
+        "slug": "trumpet-creeper",
+        "name_en": "Trumpet Creeper",
+        "name_local": "Trumpet Creeper",
+        "scientific": "Campsis radicans",
+        "description_en": "Trumpet Creeper is a vigorous climbing vine that produces showy clusters of orange-red trumpet-shaped flowers all summer, irresistible to hummingbirds. It climbs by aerial rootlets and can quickly cover fences and trees. Its compound leaves have several toothed leaflets.",
+        "identify_en": "Orange-red trumpet-shaped flowers in clusters; compound leaves with toothed leaflets; woody climbing vine.",
+        "habitat_en": "Fencerows, woodland edges, and disturbed sunny areas."
+      },
+      {
+        "slug": "virginia-creeper",
+        "name_en": "Virginia Creeper",
+        "name_local": "Virginia Creeper",
+        "scientific": "Parthenocissus quinquefolia",
+        "description_en": "Virginia Creeper is a common woody vine easily identified by its leaves divided into five leaflets, distinguishing it from poison ivy. It climbs with adhesive tendril tips and turns brilliant crimson in autumn. Its dark blue berries are eaten by birds but are toxic to humans.",
+        "identify_en": "Palmate leaves with five toothed leaflets; tendrils with adhesive pads; scarlet fall color; dark blue berries.",
+        "habitat_en": "Woodlands, fences, walls, and forest edges."
+      },
+      {
+        "slug": "common-milkweed",
+        "name_en": "Common Milkweed",
+        "name_local": "Common Milkweed",
+        "scientific": "Asclepias syriaca",
+        "description_en": "Common Milkweed is a tall native perennial with large rounded clusters of fragrant pink-purple flowers. It exudes milky sap when broken and is a critical host plant for monarch butterfly caterpillars. In fall it forms warty pods that split to release silky-tufted seeds.",
+        "identify_en": "Rounded clusters of fragrant dusty-pink flowers; broad opposite leaves; milky sap; warty seed pods.",
+        "habitat_en": "Old fields, roadsides, and open disturbed ground."
+      },
+      {
+        "slug": "goldenrod",
+        "name_en": "Goldenrod",
+        "name_local": "Goldenrod",
+        "scientific": "Solidago canadensis",
+        "description_en": "Goldenrod fills late-summer and fall meadows with plumes of tiny bright yellow flowers. Often wrongly blamed for hay fever, it is actually insect-pollinated and a valuable late-season nectar source for bees and butterflies. It spreads readily to form large colonies.",
+        "identify_en": "Arching plumes of tiny yellow flowers; narrow toothed lance-shaped leaves; tall unbranched stems.",
+        "habitat_en": "Meadows, fields, roadsides, and open areas."
+      },
+      {
+        "slug": "mayapple",
+        "name_en": "Mayapple",
+        "name_local": "Mayapple",
+        "scientific": "Podophyllum peltatum",
+        "description_en": "Mayapple is a woodland wildflower that forms colonies of umbrella-like leaves on the forest floor in spring. Plants with two leaves bear a single nodding white flower hidden beneath, which develops into a yellow fruit. All parts except the ripe fruit are toxic.",
+        "identify_en": "Large umbrella-shaped deeply lobed leaves; single white flower in leaf fork; forms spreading colonies.",
+        "habitat_en": "Moist, shaded deciduous forests."
+      },
+      {
+        "slug": "wild-bergamot",
+        "name_en": "Wild Bergamot",
+        "name_local": "Wild Bergamot",
+        "scientific": "Monarda fistulosa",
+        "description_en": "Wild Bergamot is an aromatic member of the mint family topped with ragged lavender flower heads that attract bees, butterflies, and hummingbirds. Its leaves have a pleasant minty-oregano scent when crushed. Like other mints, it has a square stem.",
+        "identify_en": "Ragged lavender-pink tubular flower clusters; square stems; aromatic toothed leaves.",
+        "habitat_en": "Dry fields, thickets, and prairie edges."
+      }
+    ],
+    "birds": [
+      {
+        "slug": "northern-cardinal",
+        "name_en": "Northern Cardinal",
+        "name_local": "Northern Cardinal",
+        "scientific": "Cardinalis cardinalis",
+        "description_en": "Virginia's state bird, the Northern Cardinal is a familiar year-round resident. Males are brilliant red with a black face mask, while females are warm buff-brown with red accents; both have a prominent crest and thick orange-red bill. Their clear whistled songs carry through neighborhoods and woodlands.",
+        "identify_en": "Male all red with black face and crest; female buff-brown with red tinges; heavy cone-shaped orange bill.",
+        "habitat_en": "Woodland edges, thickets, gardens, and backyards.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "american-robin",
+        "name_en": "American Robin",
+        "name_local": "American Robin",
+        "scientific": "Turdus migratorius",
+        "description_en": "The American Robin is a large, familiar thrush recognized by its warm brick-red breast and dark gray back. Often seen running and pausing on lawns to hunt earthworms, it is one of the first birds to sing at dawn. It is a common sight across Virginia year-round.",
+        "identify_en": "Rusty-orange breast; dark gray back and head; yellow bill; white throat streaks and eye ring.",
+        "habitat_en": "Lawns, parks, gardens, and open woodlands.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "blue-jay",
+        "name_en": "Blue Jay",
+        "name_local": "Blue Jay",
+        "scientific": "Cyanocitta cristata",
+        "description_en": "The Blue Jay is a bold, intelligent songbird with striking blue, white, and black plumage and a prominent crest. Known for its loud calls and mimicry of hawks, it is a frequent and noisy visitor to feeders. Blue Jays cache acorns and help spread oak trees.",
+        "identify_en": "Bright blue upperparts with black barring; white face; blue crest; black necklace across chest.",
+        "habitat_en": "Oak and mixed forests, parks, and suburban yards.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "carolina-chickadee",
+        "name_en": "Carolina Chickadee",
+        "name_local": "Carolina Chickadee",
+        "scientific": "Poecile carolinensis",
+        "description_en": "The Carolina Chickadee is a tiny, energetic bird with a black cap and bib and white cheeks. Curious and acrobatic, it readily visits feeders and often flocks with other small birds in winter. Its clear four-note whistle and buzzy chick-a-dee call are common woodland sounds.",
+        "identify_en": "Black cap and throat; white cheeks; gray back; small size with short bill.",
+        "habitat_en": "Deciduous and mixed woods, parks, and backyards.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "mourning-dove",
+        "name_en": "Mourning Dove",
+        "name_local": "Mourning Dove",
+        "scientific": "Zenaida macroura",
+        "description_en": "The Mourning Dove is a slender, soft gray-brown dove named for its mournful cooing call. Its wings whistle sharply as it takes flight, and its long pointed tail is edged with white. It is one of the most widespread and abundant birds in Virginia.",
+        "identify_en": "Slim gray-brown body; long pointed white-edged tail; black spots on wings; small head.",
+        "habitat_en": "Open country, fields, suburbs, and feeders.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "american-goldfinch",
+        "name_en": "American Goldfinch",
+        "name_local": "American Goldfinch",
+        "scientific": "Spinus tristis",
+        "description_en": "The American Goldfinch is a small, colorful finch. Breeding males are bright lemon-yellow with a black cap and black-and-white wings, while females and winter birds are duller olive-brown. It flies in a bouncy, undulating pattern and feeds heavily on thistle and sunflower seeds.",
+        "identify_en": "Breeding male bright yellow with black forehead and wings; conical bill; bouncy flight.",
+        "habitat_en": "Weedy fields, meadows, gardens, and feeders.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "red-tailed-hawk",
+        "name_en": "Red-tailed Hawk",
+        "name_local": "Red-tailed Hawk",
+        "scientific": "Buteo jamaicensis",
+        "description_en": "The Red-tailed Hawk is a large, broad-winged raptor commonly seen soaring over open country or perched along highways. Adults have a distinctive brick-red tail and a pale underside with a dark belly band. Its piercing scream is often used in films as the sound of eagles.",
+        "identify_en": "Broad rounded wings; pale chest with dark belly band; brick-red tail in adults; soaring flight.",
+        "habitat_en": "Open fields, farmland, roadsides, and woodland edges.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "carolina-wren",
+        "name_en": "Carolina Wren",
+        "name_local": "Carolina Wren",
+        "scientific": "Thryothorus ludovicianus",
+        "description_en": "The Carolina Wren is a small, round, rusty-brown bird with a bold white eyebrow stripe and an upturned tail. Despite its size, it sings a remarkably loud, rolling 'teakettle-teakettle' song year-round. It is a common resident of brushy tangles and backyard shrubbery.",
+        "identify_en": "Warm rusty-brown above, buff below; bold white eyebrow stripe; cocked tail; loud song.",
+        "habitat_en": "Dense thickets, brushy yards, and wooded areas.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "red-bellied-woodpecker",
+        "name_en": "Red-bellied Woodpecker",
+        "name_local": "Red-bellied Woodpecker",
+        "scientific": "Melanerpes carolinus",
+        "description_en": "The Red-bellied Woodpecker is a medium-sized woodpecker with a boldly black-and-white barred back and a red cap and nape. The faint reddish wash on its belly, which gives it its name, is often hard to see. It is a common, vocal resident of Virginia woodlands and feeders.",
+        "identify_en": "Black-and-white zebra-barred back; red crown and nape; pale face and underparts.",
+        "habitat_en": "Deciduous forests, woodlots, and suburban yards.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "eastern-bluebird",
+        "name_en": "Eastern Bluebird",
+        "name_local": "Eastern Bluebird",
+        "scientific": "Sialia sialis",
+        "description_en": "The Eastern Bluebird is a small, beloved thrush with a vivid blue back and a rusty-orange breast. Males are brightly colored while females are grayer with softer blue tints. It perches on wires and fence posts, dropping to the ground to catch insects, and readily uses nest boxes.",
+        "identify_en": "Bright blue upperparts; rusty-orange throat and breast; white belly; rounded posture.",
+        "habitat_en": "Open fields, meadows, orchards, and pastures with scattered perches.",
+        "images": [],
+        "flight_image": null
+      }
+    ],
+    "animals": [
+      {
+        "slug": "white-tailed-deer",
+        "name_en": "White-tailed Deer",
+        "name_local": "White-tailed Deer",
+        "scientific": "Odocoileus virginianus",
+        "description_en": "The White-tailed Deer is Virginia's most familiar large mammal, named for the white underside of its tail that it raises like a flag when alarmed. Males grow branching antlers each year and shed them in winter. They are most active at dawn and dusk in fields and forest edges.",
+        "identify_en": "Reddish-brown to gray coat; white belly and tail underside raised when fleeing; males with branched antlers.",
+        "habitat_en": "Forests, fields, farmland, and suburban edges."
+      },
+      {
+        "slug": "eastern-gray-squirrel",
+        "name_en": "Eastern Gray Squirrel",
+        "name_local": "Eastern Gray Squirrel",
+        "scientific": "Sciurus carolinensis",
+        "description_en": "The Eastern Gray Squirrel is an abundant tree squirrel with a bushy tail and gray fur often tinged with brown. Active by day year-round, it is famous for burying nuts and acorns to eat later. It is equally at home in mature forests and city parks.",
+        "identify_en": "Gray coat with brownish tones; white to pale belly; large bushy silver-edged tail.",
+        "habitat_en": "Hardwood forests, parks, and suburban neighborhoods."
+      },
+      {
+        "slug": "raccoon",
+        "name_en": "Raccoon",
+        "name_local": "Raccoon",
+        "scientific": "Procyon lotor",
+        "description_en": "The Raccoon is a stocky, nocturnal mammal easily recognized by its black facial mask and ringed tail. Highly intelligent and dexterous, it uses its nimble front paws to open latches and forage for almost any food. It thrives in both wild woodlands and urban areas.",
+        "identify_en": "Black mask across the eyes; bushy tail with black rings; grizzled gray body; dexterous front paws.",
+        "habitat_en": "Woodlands near water, wetlands, farms, and cities."
+      },
+      {
+        "slug": "virginia-opossum",
+        "name_en": "Virginia Opossum",
+        "name_local": "Virginia Opossum",
+        "scientific": "Didelphis virginiana",
+        "description_en": "The Virginia Opossum is North America's only marsupial, carrying its young in a pouch. It has grizzled gray fur, a pointed pink snout, and a naked prehensile tail. When threatened it may 'play possum,' feigning death, and it helps control ticks and pests.",
+        "identify_en": "Grizzled gray-white fur; pointed white face with pink nose; hairless rat-like prehensile tail.",
+        "habitat_en": "Woodlands, farmland, and suburbs, often near water."
+      },
+      {
+        "slug": "eastern-cottontail",
+        "name_en": "Eastern Cottontail",
+        "name_local": "Eastern Cottontail",
+        "scientific": "Sylvilagus floridanus",
+        "description_en": "The Eastern Cottontail is a common rabbit named for its fluffy white tail. It has grayish-brown fur, large ears, and freezes or bolts in a zigzag run when startled. Most active at dawn and dusk, it feeds on grasses, clover, and garden plants.",
+        "identify_en": "Grayish-brown fur; rusty nape; large ears; short fluffy white tail; freezes when alarmed.",
+        "habitat_en": "Brushy fields, meadows, thickets, and gardens."
+      },
+      {
+        "slug": "red-fox",
+        "name_en": "Red Fox",
+        "name_local": "Red Fox",
+        "scientific": "Vulpes vulpes",
+        "description_en": "The Red Fox is a slender, dog-like predator with a rusty-orange coat, black legs, and a bushy white-tipped tail. Adaptable and cunning, it hunts small mammals, birds, and insects, mostly at dusk and night. It is found across Virginia from farmland to suburbs.",
+        "identify_en": "Rusty-orange fur; black lower legs and ears; long bushy tail with a white tip.",
+        "habitat_en": "Farmland, forest edges, meadows, and suburbs."
+      },
+      {
+        "slug": "american-black-bear",
+        "name_en": "American Black Bear",
+        "name_local": "American Black Bear",
+        "scientific": "Ursus americanus",
+        "description_en": "The American Black Bear is Virginia's largest land mammal, with a bulky black body, a brown muzzle, and a straight facial profile. Despite their size they are shy and mostly eat plants, berries, nuts, and insects. They are most common in the mountains and Great Dismal Swamp.",
+        "identify_en": "Large black body with tan muzzle; no shoulder hump; short curved claws; rounded ears.",
+        "habitat_en": "Forested mountains, swamps, and large wooded tracts."
+      },
+      {
+        "slug": "groundhog",
+        "name_en": "Groundhog",
+        "name_local": "Groundhog",
+        "scientific": "Marmota monax",
+        "description_en": "The Groundhog, also called the woodchuck, is a stout, burrowing rodent of the marmot family. It has grizzled brown fur, short powerful legs, and digs extensive burrow systems in fields and along roadsides. It hibernates through winter and feeds on grasses and garden plants.",
+        "identify_en": "Chunky brown body; short bushy tail; short legs; often stands upright near burrow entrances.",
+        "habitat_en": "Fields, pastures, roadsides, and woodland edges."
+      },
+      {
+        "slug": "eastern-chipmunk",
+        "name_en": "Eastern Chipmunk",
+        "name_local": "Eastern Chipmunk",
+        "scientific": "Tamias striatus",
+        "description_en": "The Eastern Chipmunk is a small, striped ground squirrel with reddish-brown fur and bold dark and light stripes down its back. It uses expandable cheek pouches to carry seeds and nuts to its burrow. Active by day, it is often seen darting across logs and stone walls.",
+        "identify_en": "Small size; reddish-brown with white stripes bordered by black on the back; stripes through the eyes.",
+        "habitat_en": "Deciduous forests, rocky areas, stone walls, and yards."
+      },
+      {
+        "slug": "striped-skunk",
+        "name_en": "Striped Skunk",
+        "name_local": "Striped Skunk",
+        "scientific": "Mephitis mephitis",
+        "description_en": "The Striped Skunk is a cat-sized, nocturnal mammal known for the two white stripes running down its glossy black back. When threatened it can spray a powerful, foul-smelling musk as defense. It forages at night for insects, grubs, small animals, and plants.",
+        "identify_en": "Black body with a white stripe splitting into two down the back; white forehead patch; bushy tail.",
+        "habitat_en": "Fields, woodland edges, farmland, and suburbs."
+      }
+    ]
+  }
+}

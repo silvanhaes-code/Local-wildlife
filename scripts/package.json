@@ -1,0 +1,14 @@
+{
+  "name": "local-wildlife-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Dev-only tooling: fetch open-license images and generate app icons.",
+  "scripts": {
+    "images": "node fetch_images.mjs",
+    "icons": "node gen_icons.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5",
+    "undici": "^6.27.0"
+  }
+}

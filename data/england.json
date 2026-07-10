@@ -1,0 +1,426 @@
+{
+  "region": "england",
+  "region_name_en": "England (UK)",
+  "local_language": "en",
+  "bilingual": false,
+  "categories": {
+    "trees": [
+      {
+        "slug": "english-oak",
+        "name_en": "English Oak",
+        "name_local": "English Oak",
+        "scientific": "Quercus robur",
+        "description_en": "The English Oak is one of Britain's most iconic and long-lived trees, supporting more wildlife than any other native species. A single mature oak can live for centuries and host hundreds of insects, birds and fungi.",
+        "identify_en": "Large spreading tree with lobed leaves on very short stalks and acorns on long stalks.",
+        "habitat_en": "Woodlands, hedgerows and parkland across lowland England.",
+        "images": []
+      },
+      {
+        "slug": "silver-birch",
+        "name_en": "Silver Birch",
+        "name_local": "Silver Birch",
+        "scientific": "Betula pendula",
+        "description_en": "The Silver Birch is a graceful pioneer tree recognised by its striking white bark. It quickly colonises open ground and its light canopy lets sunlight reach the woodland floor.",
+        "identify_en": "Slender tree with peeling white bark, black diamond marks and small triangular toothed leaves.",
+        "habitat_en": "Heathland, open woodland and light sandy soils.",
+        "images": []
+      },
+      {
+        "slug": "european-beech",
+        "name_en": "European Beech",
+        "name_local": "European Beech",
+        "scientific": "Fagus sylvatica",
+        "description_en": "The European Beech is a majestic broadleaf with a dense canopy that casts deep shade. Its smooth grey bark and coppery autumn leaves make it a favourite in southern English woods.",
+        "identify_en": "Tall tree with smooth grey bark and glossy oval leaves with wavy edges.",
+        "habitat_en": "Well-drained chalk and limestone soils, especially in southern England.",
+        "images": []
+      },
+      {
+        "slug": "ash",
+        "name_en": "Ash",
+        "name_local": "Ash",
+        "scientific": "Fraxinus excelsior",
+        "description_en": "The Ash is a tall, airy tree that is one of the last to come into leaf in spring. Sadly it is now threatened by ash dieback disease across much of the country.",
+        "identify_en": "Pinnate leaves with paired leaflets, black velvety buds and hanging bunches of winged seeds.",
+        "habitat_en": "Woodlands, hedgerows and damp fertile ground.",
+        "images": []
+      },
+      {
+        "slug": "scots-pine",
+        "name_en": "Scots Pine",
+        "name_local": "Scots Pine",
+        "scientific": "Pinus sylvestris",
+        "description_en": "The Scots Pine is Britain's only truly native pine and a distinctive evergreen conifer. Older trees develop a tall bare trunk topped with a flat spreading crown.",
+        "identify_en": "Evergreen with paired blue-green needles and orange-brown bark on the upper trunk.",
+        "habitat_en": "Sandy heaths and the Caledonian forest; widely planted elsewhere.",
+        "images": []
+      },
+      {
+        "slug": "holly",
+        "name_en": "Holly",
+        "name_local": "Holly",
+        "scientific": "Ilex aquifolium",
+        "description_en": "Holly is an evergreen shrub or small tree famous for its glossy spiny leaves and bright red winter berries. The berries are an important food source for birds in the cold months.",
+        "identify_en": "Dark glossy leaves with sharp spines and clusters of red berries in winter.",
+        "habitat_en": "Woodland understorey, hedgerows and scrub.",
+        "images": []
+      },
+      {
+        "slug": "hawthorn",
+        "name_en": "Hawthorn",
+        "name_local": "Hawthorn",
+        "scientific": "Crataegus monogyna",
+        "description_en": "Hawthorn is a thorny shrub or small tree that fills the countryside with creamy blossom in May. Its autumn berries, called haws, feed migrating and resident birds.",
+        "identify_en": "Thorny twigs, deeply lobed small leaves, white blossom and red haws.",
+        "habitat_en": "Hedgerows, scrub and woodland edges everywhere.",
+        "images": []
+      },
+      {
+        "slug": "horse-chestnut",
+        "name_en": "Horse Chestnut",
+        "name_local": "Horse Chestnut",
+        "scientific": "Aesculus hippocastanum",
+        "description_en": "The Horse Chestnut is a large ornamental tree loved for its candle-like flower spikes and shiny conkers. Though widely planted, it was originally introduced from the Balkans.",
+        "identify_en": "Large palmate leaves with fingered leaflets, white flower spikes and spiny seed cases holding conkers.",
+        "habitat_en": "Parks, streets, avenues and village greens.",
+        "images": []
+      },
+      {
+        "slug": "rowan",
+        "name_en": "Rowan",
+        "name_local": "Rowan",
+        "scientific": "Sorbus aucuparia",
+        "description_en": "The Rowan, or mountain ash, is a slender tree that thrives at high altitudes. Its bright red berry clusters are a magnet for thrushes and other birds in late summer.",
+        "identify_en": "Feathery pinnate leaves, flat clusters of white flowers and dense bunches of red-orange berries.",
+        "habitat_en": "Uplands, moorland edges, woods and gardens.",
+        "images": []
+      },
+      {
+        "slug": "field-maple",
+        "name_en": "Field Maple",
+        "name_local": "Field Maple",
+        "scientific": "Acer campestre",
+        "description_en": "The Field Maple is Britain's only native maple, a compact tree that turns rich gold in autumn. It is often found woven into old hedgerows and woodland margins.",
+        "identify_en": "Small five-lobed leaves with rounded tips and paired winged seeds held nearly horizontal.",
+        "habitat_en": "Hedgerows, woodland edges and lime-rich soils.",
+        "images": []
+      }
+    ],
+    "plants": [
+      {
+        "slug": "bluebell",
+        "name_en": "Bluebell",
+        "name_local": "Bluebell",
+        "scientific": "Hyacinthoides non-scripta",
+        "description_en": "The Bluebell carpets ancient woodlands in a haze of violet-blue each spring. Britain holds much of the world's population, making its shady displays a treasured sight.",
+        "identify_en": "Nodding one-sided spike of bell-shaped violet-blue flowers with strap-like leaves.",
+        "habitat_en": "Ancient woodland, shady banks and hedgerows.",
+        "images": []
+      },
+      {
+        "slug": "stinging-nettle",
+        "name_en": "Stinging Nettle",
+        "name_local": "Stinging Nettle",
+        "scientific": "Urtica dioica",
+        "description_en": "The Stinging Nettle is a common perennial covered in fine stinging hairs. Despite its sting it is a vital food plant for many butterfly caterpillars and can be cooked like spinach.",
+        "identify_en": "Toothed heart-shaped leaves in opposite pairs, covered in stinging hairs.",
+        "habitat_en": "Waste ground, riverbanks and nutrient-rich soils.",
+        "images": []
+      },
+      {
+        "slug": "foxglove",
+        "name_en": "Foxglove",
+        "name_local": "Foxglove",
+        "scientific": "Digitalis purpurea",
+        "description_en": "The Foxglove sends up tall spires of purple tubular flowers loved by bumblebees. All parts are highly poisonous, yet it is the source of an important heart medicine.",
+        "identify_en": "Tall spike of drooping pinkish-purple bells spotted inside, with soft rosette leaves.",
+        "habitat_en": "Woodland clearings, heaths and disturbed ground.",
+        "images": []
+      },
+      {
+        "slug": "common-poppy",
+        "name_en": "Common Poppy",
+        "name_local": "Common Poppy",
+        "scientific": "Papaver rhoeas",
+        "description_en": "The Common Poppy splashes fields and roadsides with vivid scarlet in summer. Its seeds can lie dormant for years, bursting into bloom when the soil is disturbed.",
+        "identify_en": "Papery scarlet flowers with a dark centre on hairy stems.",
+        "habitat_en": "Arable field margins, roadsides and disturbed ground.",
+        "images": []
+      },
+      {
+        "slug": "common-daisy",
+        "name_en": "Common Daisy",
+        "name_local": "Common Daisy",
+        "scientific": "Bellis perennis",
+        "description_en": "The Common Daisy is a cheerful low-growing flower found in almost every lawn. Its flowers close at night and open again with the morning sun.",
+        "identify_en": "Small white-petalled flower with a yellow centre and spoon-shaped leaves in a rosette.",
+        "habitat_en": "Lawns, grassland, parks and playing fields.",
+        "images": []
+      },
+      {
+        "slug": "dandelion",
+        "name_en": "Dandelion",
+        "name_local": "Dandelion",
+        "scientific": "Taraxacum officinale",
+        "description_en": "The Dandelion is a familiar golden-flowered plant that turns into a fluffy seed clock. It is an early and abundant source of nectar for bees and other insects.",
+        "identify_en": "Bright yellow flower head on a hollow stalk with jagged-toothed leaves in a rosette.",
+        "habitat_en": "Lawns, verges, meadows and waste ground.",
+        "images": []
+      },
+      {
+        "slug": "bramble",
+        "name_en": "Bramble (Blackberry)",
+        "name_local": "Bramble (Blackberry)",
+        "scientific": "Rubus fruticosus",
+        "description_en": "The Bramble is a scrambling thorny shrub that produces juicy blackberries in late summer. Its dense thickets provide shelter and food for countless birds and small mammals.",
+        "identify_en": "Arching thorny stems with toothed leaflets, white or pink flowers and black berries.",
+        "habitat_en": "Hedgerows, scrub, woodland edges and waste ground.",
+        "images": []
+      },
+      {
+        "slug": "cow-parsley",
+        "name_en": "Cow Parsley",
+        "name_local": "Cow Parsley",
+        "scientific": "Anthriscus sylvestris",
+        "description_en": "Cow Parsley froths along roadsides and hedge banks with lacy white flower heads in spring. It is one of the earliest of the umbellifers to flower.",
+        "identify_en": "Tall hollow ridged stems with flat umbels of tiny white flowers and fern-like leaves.",
+        "habitat_en": "Hedgerows, road verges and woodland edges.",
+        "images": []
+      },
+      {
+        "slug": "common-ivy",
+        "name_en": "Common Ivy",
+        "name_local": "Common Ivy",
+        "scientific": "Hedera helix",
+        "description_en": "Common Ivy is an evergreen climber that clings to walls and trees with tiny rootlets. Its late autumn flowers and berries are a lifeline for insects and birds when little else is available.",
+        "identify_en": "Evergreen climber with glossy lobed leaves; mature growth has oval leaves and black berries.",
+        "habitat_en": "Woodlands, walls, trees and hedgerows.",
+        "images": []
+      },
+      {
+        "slug": "red-clover",
+        "name_en": "Red Clover",
+        "name_local": "Red Clover",
+        "scientific": "Trifolium pratense",
+        "description_en": "Red Clover is a nectar-rich meadow plant with rounded pinkish-purple flower heads. As a legume it enriches the soil with nitrogen and is much loved by bumblebees.",
+        "identify_en": "Rounded pink-purple flower heads and leaves of three oval leaflets with a pale crescent mark.",
+        "habitat_en": "Meadows, grassland, verges and field margins.",
+        "images": []
+      }
+    ],
+    "birds": [
+      {
+        "slug": "european-robin",
+        "name_en": "European Robin",
+        "name_local": "European Robin",
+        "scientific": "Erithacus rubecula",
+        "description_en": "The European Robin is Britain's much-loved garden favourite, famous for its bright orange-red breast. Bold and inquisitive, it often follows gardeners hoping for turned-up worms and sings throughout the year.",
+        "identify_en": "Small plump bird with orange-red face and breast, brown back and thin dark legs.",
+        "habitat_en": "Gardens, woodland, hedgerows and parks.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "common-blackbird",
+        "name_en": "Common Blackbird",
+        "name_local": "Common Blackbird",
+        "scientific": "Turdus merula",
+        "description_en": "The Common Blackbird is a familiar thrush with one of the most beautiful songs in the British garden. Males are all black while females are brown, and both hop across lawns searching for worms.",
+        "identify_en": "Male all black with yellow bill and eye-ring; female dark brown with speckled throat.",
+        "habitat_en": "Gardens, woodland, farmland and parks.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "blue-tit",
+        "name_en": "Blue Tit",
+        "name_local": "Blue Tit",
+        "scientific": "Cyanistes caeruleus",
+        "description_en": "The Blue Tit is a tiny, acrobatic and colourful visitor to garden feeders. Its blue cap, yellow underparts and endless energy make it one of the easiest birds to recognise.",
+        "identify_en": "Small bird with blue cap and wings, yellow breast, and white cheeks with a dark eye-stripe.",
+        "habitat_en": "Woodland, gardens, hedgerows and parks.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "wood-pigeon",
+        "name_en": "Wood Pigeon",
+        "name_local": "Wood Pigeon",
+        "scientific": "Columba palumbus",
+        "description_en": "The Wood Pigeon is Britain's largest and most common pigeon, plump and grey with a soft cooing call. Its clattering wingbeats are a familiar sound when it takes off in alarm.",
+        "identify_en": "Large grey pigeon with white neck patch, pinkish breast and white wing bars in flight.",
+        "habitat_en": "Woodland, farmland, gardens and towns.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "house-sparrow",
+        "name_en": "House Sparrow",
+        "name_local": "House Sparrow",
+        "scientific": "Passer domesticus",
+        "description_en": "The House Sparrow is a sociable, chirpy bird that lives close to people. Once abundant everywhere, its numbers have declined, though noisy flocks still gather around buildings and hedges.",
+        "identify_en": "Stocky brown bird; male has grey crown and black bib, female is plain buff-brown.",
+        "habitat_en": "Towns, villages, gardens and farmyards.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "eurasian-magpie",
+        "name_en": "Eurasian Magpie",
+        "name_local": "Eurasian Magpie",
+        "scientific": "Pica pica",
+        "description_en": "The Eurasian Magpie is a striking black-and-white member of the crow family with a long iridescent tail. Highly intelligent and bold, it is one of the few birds known to recognise itself in a mirror.",
+        "identify_en": "Black and white bird with a long green-blue glossy tail and bounding walk.",
+        "habitat_en": "Farmland, gardens, parks and open country.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "eurasian-wren",
+        "name_en": "Eurasian Wren",
+        "name_local": "Eurasian Wren",
+        "scientific": "Troglodytes troglodytes",
+        "description_en": "The Eurasian Wren is a tiny brown bird with a surprisingly loud, trilling song. It is one of Britain's most numerous birds, often seen darting mouse-like through low vegetation with its tail cocked.",
+        "identify_en": "Very small round brown bird with a short cocked-up tail and fine barring.",
+        "habitat_en": "Woodland, gardens, hedgerows and scrub.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "common-chaffinch",
+        "name_en": "Common Chaffinch",
+        "name_local": "Common Chaffinch",
+        "scientific": "Fringilla coelebs",
+        "description_en": "The Common Chaffinch is a colourful finch and one of Britain's most widespread birds. The male's pinkish breast and blue-grey crown brighten many gardens, and its cheerful song is a familiar spring sound.",
+        "identify_en": "Male with pink breast, blue-grey crown and bold white wing bars; female duller brown.",
+        "habitat_en": "Woodland, gardens, farmland and hedgerows.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "common-starling",
+        "name_en": "Common Starling",
+        "name_local": "Common Starling",
+        "scientific": "Sturnus vulgaris",
+        "description_en": "The Common Starling is a glossy, chattering bird that gathers in huge swirling flocks called murmurations. Up close its plumage shimmers green and purple, spangled with pale spots in winter.",
+        "identify_en": "Glossy dark bird with iridescent sheen, pale spots and a pointed yellow bill in summer.",
+        "habitat_en": "Towns, farmland, gardens and grassland.",
+        "images": [],
+        "flight_image": null
+      },
+      {
+        "slug": "great-tit",
+        "name_en": "Great Tit",
+        "name_local": "Great Tit",
+        "scientific": "Parus major",
+        "description_en": "The Great Tit is the largest of the British tits, bold and easy to spot at feeders. Its ringing two-note 'teacher-teacher' song is one of the first signs of spring.",
+        "identify_en": "Yellow breast with a bold black central stripe, glossy black head and white cheeks.",
+        "habitat_en": "Woodland, gardens, hedgerows and parks.",
+        "images": [],
+        "flight_image": null
+      }
+    ],
+    "animals": [
+      {
+        "slug": "red-fox",
+        "name_en": "Red Fox",
+        "name_local": "Red Fox",
+        "scientific": "Vulpes vulpes",
+        "description_en": "The Red Fox is a highly adaptable predator found from remote countryside to city centres. Mostly active at dusk and night, it is known for its cunning, its rusty coat and its eerie winter calls.",
+        "identify_en": "Dog-like animal with reddish coat, white chest, pointed ears and a long bushy white-tipped tail.",
+        "habitat_en": "Woodland, farmland, towns and gardens.",
+        "images": []
+      },
+      {
+        "slug": "european-hedgehog",
+        "name_en": "European Hedgehog",
+        "name_local": "European Hedgehog",
+        "scientific": "Erinaceus europaeus",
+        "description_en": "The European Hedgehog is a beloved nocturnal mammal covered in protective spines. It hibernates through winter and helps gardeners by eating slugs and insects, though its numbers are sadly declining.",
+        "identify_en": "Small rounded mammal covered in brown spines, with a pointed snout; rolls into a ball when threatened.",
+        "habitat_en": "Gardens, hedgerows, woodland edges and parks.",
+        "images": []
+      },
+      {
+        "slug": "grey-squirrel",
+        "name_en": "Grey Squirrel",
+        "name_local": "Grey Squirrel",
+        "scientific": "Sciurus carolinensis",
+        "description_en": "The Grey Squirrel is a common and agile rodent introduced from North America. Although fun to watch, it has outcompeted the native red squirrel across much of England.",
+        "identify_en": "Grey bushy-tailed rodent, sometimes with brownish flanks, larger than the red squirrel.",
+        "habitat_en": "Woodland, parks and gardens.",
+        "images": []
+      },
+      {
+        "slug": "european-badger",
+        "name_en": "European Badger",
+        "name_local": "European Badger",
+        "scientific": "Meles meles",
+        "description_en": "The European Badger is a sturdy nocturnal mammal famous for its black-and-white striped face. It lives in family groups in underground burrows called setts and forages mainly for earthworms.",
+        "identify_en": "Stocky grey body with a white head marked by two broad black stripes.",
+        "habitat_en": "Woodland, hedgerows and farmland with well-drained soil.",
+        "images": []
+      },
+      {
+        "slug": "european-rabbit",
+        "name_en": "European Rabbit",
+        "name_local": "European Rabbit",
+        "scientific": "Oryctolagus cuniculus",
+        "description_en": "The European Rabbit is a familiar grazing mammal that lives in social colonies in networks of burrows called warrens. Most active at dawn and dusk, it thumps a warning with its hind foot when alarmed.",
+        "identify_en": "Small grey-brown mammal with long ears, white tail underside and hopping gait.",
+        "habitat_en": "Grassland, farmland, dunes and woodland edges.",
+        "images": []
+      },
+      {
+        "slug": "red-deer",
+        "name_en": "Red Deer",
+        "name_local": "Red Deer",
+        "scientific": "Cervus elaphus",
+        "description_en": "The Red Deer is Britain's largest wild land mammal, with stags growing impressive branching antlers. During the autumn rut the males roar and clash to win mating rights.",
+        "identify_en": "Large reddish-brown deer; stags have big branched antlers and a shaggy neck mane in autumn.",
+        "habitat_en": "Moorland, uplands, woodland and deer parks.",
+        "images": []
+      },
+      {
+        "slug": "roe-deer",
+        "name_en": "Roe Deer",
+        "name_local": "Roe Deer",
+        "scientific": "Capreolus capreolus",
+        "description_en": "The Roe Deer is a small, elegant native deer often seen alone or in small groups at woodland edges. It has a reddish summer coat that turns greyer in winter and a distinctive white rump.",
+        "identify_en": "Small deer with short three-pointed antlers, black nose and a white rump with no visible tail.",
+        "habitat_en": "Woodland, farmland and field margins.",
+        "images": []
+      },
+      {
+        "slug": "wood-mouse",
+        "name_en": "Wood Mouse",
+        "name_local": "Wood Mouse",
+        "scientific": "Apodemus sylvaticus",
+        "description_en": "The Wood Mouse is one of Britain's most common wild mammals, active mostly at night. With large eyes and ears and a long tail, it is an agile climber and jumper.",
+        "identify_en": "Small brown mouse with sandy flanks, white belly, large ears and eyes, and a long tail.",
+        "habitat_en": "Woodland, hedgerows, fields and gardens.",
+        "images": []
+      },
+      {
+        "slug": "common-frog",
+        "name_en": "Common Frog",
+        "name_local": "Common Frog",
+        "scientific": "Rana temporaria",
+        "description_en": "The Common Frog is a familiar amphibian that returns to ponds each spring to spawn. Its smooth moist skin varies in colour and it feeds on slugs, snails and insects.",
+        "identify_en": "Smooth-skinned amphibian, olive-brown with a dark patch behind the eye and long jumping legs.",
+        "habitat_en": "Ponds, gardens, marshes and damp grassland.",
+        "images": []
+      },
+      {
+        "slug": "stoat",
+        "name_en": "Stoat",
+        "name_local": "Stoat",
+        "scientific": "Mustela erminea",
+        "description_en": "The Stoat is a slender, agile hunter from the weasel family, bold beyond its size. It has a distinctive black tail tip and in northern areas may turn white in winter, when its fur is known as ermine.",
+        "identify_en": "Long slim body with chestnut-brown back, cream belly and a black-tipped tail.",
+        "habitat_en": "Woodland, farmland, moorland and hedgerows.",
+        "images": []
+      }
+    ]
+  }
+}

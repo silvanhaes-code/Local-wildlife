@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Local Wildlife">
+  <rect width="512" height="512" rx="112" fill="#2f6b3d"/>
+  <path d="M369 128c8 96-30 179-116 208-30 10-63 12-96 6 6-84 44-146 112-180 26-13 60-24 100-34z"
+        fill="#e3efe4"/>
+  <path d="M330 172c-58 34-96 88-118 162" fill="none" stroke="#2f6b3d" stroke-width="16"
+        stroke-linecap="round"/>
+  <path d="M300 214c-24 6-46 18-64 36M330 258c-26 4-50 14-70 32"
+        fill="none" stroke="#2f6b3d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M150 384c0 0 6-40 34-72" fill="none" stroke="#e3efe4" stroke-width="18"
+        stroke-linecap="round"/>
+</svg>
