@@ -16,7 +16,14 @@
         "identify_local": "Glatte graue Rinde und glänzende ovale Blätter mit welligem, fein behaartem Rand.",
         "habitat_en": "Deciduous and mixed forests on well-drained soils across lowland and hill country.",
         "habitat_local": "Laub- und Mischwälder auf gut durchlässigen Böden im Flach- und Hügelland.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/european-beech.webp",
+            "credit": "GooseCanada",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Fagus-sylvatica-cansiglio-forest-italy.jpg"
+          }
+        ]
       },
       {
         "slug": "pedunculate-oak",
@@ -29,7 +36,14 @@
         "identify_local": "Gelappte Blätter mit kleinen ohrförmigen Lappen am Grund und Eicheln an langen Stielen.",
         "habitat_en": "Lowland forests, hedgerows and parks, often on heavier, moist soils.",
         "habitat_local": "Tieflandwälder, Hecken und Parks, oft auf schwereren, feuchten Böden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/pedunculate-oak.webp",
+            "credit": "Wikimedia Commons",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg"
+          }
+        ]
       },
       {
         "slug": "norway-spruce",
@@ -42,7 +56,14 @@
         "identify_local": "Scharfe vierkantige Nadeln auf holzigen Stiften und lange, herabhängende Zapfen.",
         "habitat_en": "Mountain and upland forests, and widely planted in commercial plantations.",
         "habitat_local": "Berg- und Hochlandwälder sowie weit verbreitet in Nutzholzplantagen.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/norway-spruce.webp",
+            "credit": "Ivar Leidus",
+            "license": "CC BY-SA 3.0 ee",
+            "source": "https://commons.wikimedia.org/wiki/File:Kuusk_Keila-Paldiski_rdt_%C3%A4%C3%A4res.jpg"
+          }
+        ]
       },
       {
         "slug": "scots-pine",
@@ -55,7 +76,14 @@
         "identify_local": "Blaugrüne Nadeln zu zweit und abblätternde orangerote Rinde im oberen Stammbereich.",
         "habitat_en": "Sandy heaths, dry pine woods and poor soils across the lowlands.",
         "habitat_local": "Sandige Heiden, trockene Kiefernwälder und arme Böden im Tiefland.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/scots-pine.webp",
+            "credit": "Mickaël Delcey (Silverkey)",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg"
+          }
+        ]
       },
       {
         "slug": "silver-birch",
@@ -68,7 +96,14 @@
         "identify_local": "Weiße papierartige Rinde mit schwarzen Rauten und hängende Zweige mit kleinen dreieckigen Blättern.",
         "habitat_en": "Heaths, clearings, roadsides and light woodland on dry, sandy soils.",
         "habitat_local": "Heiden, Lichtungen, Wegränder und lichte Wälder auf trockenen, sandigen Böden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/silver-birch.webp",
+            "credit": "Percita at Flickr",
+            "license": "CC BY-SA 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Betula_pendula_Finland.jpg"
+          }
+        ]
       },
       {
         "slug": "european-ash",
@@ -81,7 +116,14 @@
         "identify_local": "Gefiederte Blätter mit mehreren Fiederpaaren und samtschwarze Knospen im Winter.",
         "habitat_en": "Moist woodlands, riverbanks and floodplains on fertile soils.",
         "habitat_local": "Feuchte Wälder, Flussufer und Auen auf nährstoffreichen Böden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/european-ash.webp",
+            "credit": "No machine-readable author provided. MPF assumed (based on copyright claims).",
+            "license": "CC BY 2.5",
+            "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior.jpg"
+          }
+        ]
       },
       {
         "slug": "sycamore-maple",
@@ -94,7 +136,14 @@
         "identify_local": "Große fünflappige, gezähnte Blätter und paarige geflügelte Samen in etwa rechtwinklig zueinander.",
         "habitat_en": "Mountain forests, parks and streets, tolerant of exposed conditions.",
         "habitat_local": "Bergwälder, Parks und Straßen, tolerant gegenüber exponierten Bedingungen.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/sycamore-maple.webp",
+            "credit": "Willow",
+            "license": "CC BY 2.5",
+            "source": "https://commons.wikimedia.org/wiki/File:Acer_pseudoplatanus_005.jpg"
+          }
+        ]
       },
       {
         "slug": "small-leaved-lime",
@@ -107,7 +156,14 @@
         "identify_local": "Kleine herzförmige Blätter mit rostbraunen Haarbüscheln in den Aderwinkeln der Unterseite.",
         "habitat_en": "Mixed forests, hedgerows, parks and village greens on rich soils.",
         "habitat_local": "Mischwälder, Hecken, Parks und Dorfanger auf nährstoffreichen Böden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/small-leaved-lime.webp",
+            "credit": "Wikimedia Commons",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Tilia-cordata2.JPG"
+          }
+        ]
       },
       {
         "slug": "hornbeam",
@@ -120,7 +176,14 @@
         "identify_local": "Geriffelter grauer Stamm und doppelt gesägte, gefaltete Blätter mit dreilappigen Samen-Flügeln.",
         "habitat_en": "Mixed lowland woods, hedges and forest margins on moist soils.",
         "habitat_local": "Laubmischwälder, Hecken und Waldränder im Tiefland auf feuchten Böden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/hornbeam.webp",
+            "credit": "Willow",
+            "license": "CC BY 2.5",
+            "source": "https://commons.wikimedia.org/wiki/File:Carpinus_betulus_-_Hunsr%C3%BCck_001.jpg"
+          }
+        ]
       },
       {
         "slug": "horse-chestnut",
@@ -133,7 +196,14 @@
         "identify_local": "Große handförmige Blätter mit fünf bis sieben Fiederblättchen und stachelige Hüllen um glänzend braune Samen.",
         "habitat_en": "Parks, avenues, gardens and beer-garden shade throughout towns.",
         "habitat_local": "Parks, Alleen, Gärten und als Schattenspender in Biergärten in Ortschaften.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/trees/horse-chestnut.webp",
+            "credit": "User:Kilom691",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:Illustration_Aesculus_hippocastanum0_clean.jpg"
+          }
+        ]
       }
     ],
     "plants": [
@@ -148,7 +218,14 @@
         "identify_local": "Gelbe Korbblüte auf einem hohlen, blattlosen Stängel mit gezackten, gesägten Blättern.",
         "habitat_en": "Lawns, meadows, roadsides and waste ground almost everywhere.",
         "habitat_local": "Rasen, Wiesen, Wegränder und Brachflächen nahezu überall.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/dandelion.webp",
+            "credit": "Walther Otto Müller",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-135.jpg"
+          }
+        ]
       },
       {
         "slug": "stinging-nettle",
@@ -161,7 +238,14 @@
         "identify_local": "Gezähnte herzförmige Blätter und Stängel, beide mit feinen Brennhaaren besetzt.",
         "habitat_en": "Nutrient-rich waste ground, hedgerows, gardens and woodland edges.",
         "habitat_local": "Nährstoffreiche Brachflächen, Hecken, Gärten und Waldränder.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/stinging-nettle.webp",
+            "credit": "Evelyn Simak",
+            "license": "CC BY-SA 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg"
+          }
+        ]
       },
       {
         "slug": "common-daisy",
@@ -174,7 +258,14 @@
         "identify_local": "Winzige Blüte mit gelber Scheibe und weißen Zungenblüten auf kurzem Stiel über einer Bodenrosette.",
         "habitat_en": "Short grass, lawns, meadows and trampled ground.",
         "habitat_local": "Kurzrasen, Wiesen und getretener Boden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/common-daisy.webp",
+            "credit": "Stefan.lefnaer",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_sl1.jpg"
+          }
+        ]
       },
       {
         "slug": "cornflower",
@@ -187,7 +278,14 @@
         "identify_local": "Leuchtend blaue, gefranste Blütenköpfe mit schmalen graugrünen Blättern an drahtigen Stängeln.",
         "habitat_en": "Cornfields, field margins, fallow land and sown flower strips.",
         "habitat_local": "Getreidefelder, Feldränder, Brachland und angesäte Blühstreifen.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/cornflower.webp",
+            "credit": "Orikrin1998",
+            "license": "CC BY 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Centaurea_cyanus_flower_001.jpg"
+          }
+        ]
       },
       {
         "slug": "common-poppy",
@@ -200,7 +298,14 @@
         "identify_local": "Vier zerknitterte scharlachrote Blütenblätter, oft mit dunklem Fleck am Grund, und eine gerippte Samenkapsel.",
         "habitat_en": "Cornfields, disturbed ground, roadsides and building sites.",
         "habitat_local": "Getreidefelder, gestörter Boden, Wegränder und Baustellen.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/common-poppy.webp",
+            "credit": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:Papaver_rhoeas_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-101.jpg"
+          }
+        ]
       },
       {
         "slug": "ramsons",
@@ -213,7 +318,14 @@
         "identify_local": "Breite glänzende Blätter mit starkem Knoblauchgeruch und weißen sternförmigen Blütendolden.",
         "habitat_en": "Damp, shady deciduous woodland on rich soils in spring.",
         "habitat_local": "Feuchte, schattige Laubwälder auf nährstoffreichen Böden im Frühjahr.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/ramsons.webp",
+            "credit": "Rodolph",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Photo_of_Allium_Ursinum,_wild_garlic,_north-west_Hampshire,_UK,_May_2014.jpg"
+          }
+        ]
       },
       {
         "slug": "wood-anemone",
@@ -226,7 +338,14 @@
         "identify_local": "Einzelne weiße Sternblüte über einem Quirl aus drei tief geteilten Blättern.",
         "habitat_en": "Deciduous woodland floors and shady banks in early spring.",
         "habitat_local": "Böden von Laubwäldern und schattige Böschungen im zeitigen Frühjahr.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/wood-anemone.webp",
+            "credit": "Lilly M",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Anemone_nemorosa_001.JPG"
+          }
+        ]
       },
       {
         "slug": "ribwort-plantain",
@@ -239,7 +358,14 @@
         "identify_local": "Lange gerippte lanzettförmige Blätter und kurze braune Blütenähren mit weißen Staubblattkränzen.",
         "habitat_en": "Meadows, lawns, paths and trodden grassland.",
         "habitat_local": "Wiesen, Rasen, Wege und getretenes Grünland.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/ribwort-plantain.webp",
+            "credit": "sannse",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Ribwort_600.jpg"
+          }
+        ]
       },
       {
         "slug": "yarrow",
@@ -252,7 +378,14 @@
         "identify_local": "Gefiederte, fein zerteilte Blätter und flache Dolden kleiner weißer Blütenköpfe.",
         "habitat_en": "Meadows, grassy verges, roadsides and dry grassland.",
         "habitat_local": "Wiesen, Grasränder, Wegränder und trockenes Grasland.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/yarrow.webp",
+            "credit": "SAplants",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(bright).jpg"
+          }
+        ]
       },
       {
         "slug": "elder",
@@ -265,7 +398,14 @@
         "identify_local": "Flache cremefarbene Blütendolden und hängende Büschel glänzend schwarzer Beeren an markhaltigen Zweigen.",
         "habitat_en": "Hedgerows, woodland edges, waste ground and riverbanks.",
         "habitat_local": "Hecken, Waldränder, Brachflächen und Flussufer.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/plants/elder.webp",
+            "credit": "Willow",
+            "license": "CC BY 2.5",
+            "source": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg"
+          }
+        ]
       }
     ],
     "birds": [
@@ -280,8 +420,20 @@
         "identify_local": "Glänzend schwarzes Männchen mit orangem Schnabel; braunes Weibchen; hüpft mit aufgestelltem Schwanz über Rasen.",
         "habitat_en": "Gardens, parks, hedges and woodland throughout the year.",
         "habitat_local": "Gärten, Parks, Hecken und Wälder das ganze Jahr über.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/common-blackbird.webp",
+            "credit": "Andreas Trepte",
+            "license": "CC BY-SA 2.5",
+            "source": "https://commons.wikimedia.org/wiki/File:Common_Blackbird.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/common-blackbird-flight.webp",
+          "credit": "David Merrett",
+          "license": "CC BY 2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Blackbird_in_flight.jpg"
+        }
       },
       {
         "slug": "great-tit",
@@ -294,8 +446,20 @@
         "identify_local": "Schwarzer Kopf mit weißen Wangen und gelbe Unterseite mit auffälligem schwarzem Bauchstreif.",
         "habitat_en": "Woods, gardens, parks and hedgerows; frequent at feeders.",
         "habitat_local": "Wälder, Gärten, Parks und Hecken; häufig am Futterplatz.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/great-tit.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major)_Heligan.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/great-tit-flight.webp",
+          "credit": "Paweł Kuźniar (Jojo_1, Jojo)",
+          "license": "CC BY-SA 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Parus_major_in_flight_01.jpg"
+        }
       },
       {
         "slug": "house-sparrow",
@@ -308,8 +472,20 @@
         "identify_local": "Männchen mit grauem Scheitel, schwarzem Latz und kastanienbraunem Nacken; Weibchen schlicht streifig braun.",
         "habitat_en": "Towns, villages, farmyards and gardens close to buildings.",
         "habitat_local": "Städte, Dörfer, Bauernhöfe und Gärten in Gebäudenähe.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/house-sparrow.webp",
+            "credit": "Rhododendrites",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/house-sparrow-flight.webp",
+          "credit": "Manu from Berlin, Germany",
+          "license": "CC BY-SA 2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Sparrow_flying_from_bird_house.jpg"
+        }
       },
       {
         "slug": "european-robin",
@@ -322,8 +498,20 @@
         "identify_local": "Orangerote Gesichts- und Brustpartie, braune Oberseite und rundliche, aufrechte Haltung.",
         "habitat_en": "Woods, hedges, parks and gardens, often near cover.",
         "habitat_local": "Wälder, Hecken, Parks und Gärten, oft in Deckungsnähe.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/european-robin.webp",
+            "credit": "Francis C. Franklin",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/european-robin-flight.webp",
+          "credit": "Joe Dyer from Buckhurst Hill, England",
+          "license": "CC BY 2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Robin_in_Flight_(8398860133).jpg"
+        }
       },
       {
         "slug": "common-chaffinch",
@@ -336,8 +524,20 @@
         "identify_local": "Auffällige weiße Flügelbinden; Männchen mit blaugrauer Kappe und rosa Brust.",
         "habitat_en": "Woods, gardens, farmland and hedgerows; feeds much on the ground.",
         "habitat_local": "Wälder, Gärten, Ackerland und Hecken; sucht viel am Boden nach Nahrung.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/common-chaffinch.webp",
+            "credit": "caroline legg",
+            "license": "CC BY 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Male_Chaffinch_-_Fringilla_coelebs.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/common-chaffinch-flight.webp",
+          "credit": "Sean",
+          "license": "CC BY 2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Flight_of_Fringilla_coelebs.jpg"
+        }
       },
       {
         "slug": "eurasian-blue-tit",
@@ -350,7 +550,14 @@
         "identify_local": "Blaue Kappe, blaue Flügel und blauer Schwanz mit weißen Wangen und gelbem Bauch.",
         "habitat_en": "Woods, gardens, parks and hedges; common at feeders.",
         "habitat_local": "Wälder, Gärten, Parks und Hecken; häufig am Futterplatz.",
-        "images": [],
+        "images": [
+          {
+            "file": "assets/images/germany/birds/eurasian-blue-tit.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Eurasian_blue_tit_(Cyanistes_caeruleus_caeruleus)_Biebrzanski.jpg"
+          }
+        ],
         "flight_image": null
       },
       {
@@ -364,8 +571,20 @@
         "identify_local": "Glänzend dunkles Gefieder mit hellen Punkten im Winter, spitzem Schnabel und kurzem Schwanz.",
         "habitat_en": "Farmland, towns, gardens and open ground; roosts communally.",
         "habitat_local": "Ackerland, Städte, Gärten und offenes Gelände; schläft gemeinschaftlich.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/common-starling.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/common-starling-flight.webp",
+          "credit": "NatJLN",
+          "license": "CC BY 2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_-juvenile_-flying_from_birdbath_-London-8.gif"
+        }
       },
       {
         "slug": "eurasian-magpie",
@@ -378,8 +597,20 @@
         "identify_local": "Schwarz-weißes Gefieder mit langem schillerndem Schwanz und wippendem Flug.",
         "habitat_en": "Farmland, hedges, parks and towns with scattered trees.",
         "habitat_local": "Ackerland, Hecken, Parks und Städte mit einzelnen Bäumen.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/eurasian-magpie.webp",
+            "credit": "Alexis Lours",
+            "license": "CC BY 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_2024_03_03_02.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/eurasian-magpie-flight.webp",
+          "credit": "PierreSelim",
+          "license": "CC BY-SA 3.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Compans_-_Pica_pica_in_flight.jpg"
+        }
       },
       {
         "slug": "white-stork",
@@ -392,8 +623,20 @@
         "identify_local": "Großer weißer Vogel mit schwarzen Flügelfedern sowie langem rotem Schnabel und roten Beinen.",
         "habitat_en": "Wet meadows, marshes and farmland; nests in villages.",
         "habitat_local": "Feuchtwiesen, Sümpfe und Ackerland; nistet in Dörfern.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/white-stork.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_Bia%C5%82owieza.jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/white-stork-flight.webp",
+          "credit": "Björn from Niedersachsen /lower saxony",
+          "license": "CC BY-SA 2.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Ciconia_ciconia_in_flight-yellow.jpg"
+        }
       },
       {
         "slug": "common-buzzard",
@@ -406,8 +649,20 @@
         "identify_local": "Breite gerundete Flügel, die beim Kreisen in flachem V gehalten werden, mit kurzem gefächertem Schwanz.",
         "habitat_en": "Farmland, woodland edges and open country with perches.",
         "habitat_local": "Ackerland, Waldränder und offenes Land mit Ansitzmöglichkeiten.",
-        "images": [],
-        "flight_image": null
+        "images": [
+          {
+            "file": "assets/images/germany/birds/common-buzzard.webp",
+            "credit": "caroline legg",
+            "license": "CC BY 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Common_Buzzard_by_caroline_legg_(cropped).jpg"
+          }
+        ],
+        "flight_image": {
+          "file": "assets/images/germany/birds/common-buzzard-flight.webp",
+          "credit": "Frank Schulenburg",
+          "license": "CC BY-SA 4.0",
+          "source": "https://commons.wikimedia.org/wiki/File:Buteo_jamaicensis_calurus_in_flight,_Squaw_Valley,_California.jpg"
+        }
       }
     ],
     "animals": [
@@ -422,7 +677,14 @@
         "identify_local": "Rostrotes Fell, hinten schwarze Ohren und ein langer buschiger Schwanz mit weißer Spitze.",
         "habitat_en": "Woods, farmland, heaths and increasingly towns and suburbs.",
         "habitat_local": "Wälder, Ackerland, Heiden und zunehmend Städte und Vororte.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/red-fox.webp",
+            "credit": "ClaudiaTen",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_(cropped).jpg"
+          }
+        ]
       },
       {
         "slug": "roe-deer",
@@ -435,7 +697,14 @@
         "identify_local": "Kleines Reh mit weißem Spiegel, ohne sichtbaren Schwanz und mit kurzem dreiendigem Geweih.",
         "habitat_en": "Woodland edges, fields and clearings, often at dawn and dusk.",
         "habitat_local": "Waldränder, Felder und Lichtungen, oft in der Morgen- und Abenddämmerung.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/roe-deer.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Roe_deer_(Capreolus_capreolus)_young_male_Cumnor.jpg"
+          }
+        ]
       },
       {
         "slug": "wild-boar",
@@ -448,7 +717,14 @@
         "identify_local": "Massiges graubraunes Schwein mit großem Kopf, kurzen Beinen und wühlender Schnauze.",
         "habitat_en": "Forests, farmland and increasingly urban fringes at night.",
         "habitat_local": "Wälder, Ackerland und zunehmend Stadtränder bei Nacht.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/wild-boar.webp",
+            "credit": "Valentin Panzirsch",
+            "license": "CC BY-SA 3.0 at",
+            "source": "https://commons.wikimedia.org/wiki/File:Wildschwein,_N%C3%A4he_Pulverstampftor_(cropped).jpg"
+          }
+        ]
       },
       {
         "slug": "european-hedgehog",
@@ -461,7 +737,14 @@
         "identify_local": "Kleiner runder Körper voller Stacheln; rollt sich bei Störung zu einer Kugel zusammen.",
         "habitat_en": "Gardens, hedgerows, parks and woodland edges.",
         "habitat_local": "Gärten, Hecken, Parks und Waldränder.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/european-hedgehog.webp",
+            "credit": "Jörg Hempel",
+            "license": "CC BY-SA 2.0 de",
+            "source": "https://commons.wikimedia.org/wiki/File:Erinaceus_europaeus_LC0119.jpg"
+          }
+        ]
       },
       {
         "slug": "red-squirrel",
@@ -474,7 +757,14 @@
         "identify_local": "Rötliches Fell, heller Bauch, Ohrpinsel und langer buschiger Schwanz; klettert flink in Bäumen.",
         "habitat_en": "Coniferous and mixed woodland, parks and large gardens.",
         "habitat_local": "Nadel- und Mischwälder, Parks und große Gärten.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/red-squirrel.webp",
+            "credit": "Peter Trimming",
+            "license": "CC BY 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Squirrel_posing.jpg"
+          }
+        ]
       },
       {
         "slug": "european-hare",
@@ -487,7 +777,14 @@
         "identify_local": "Großer Hase mit sehr langen, schwarzspitzigen Ohren und kräftigen langen Hinterläufen.",
         "habitat_en": "Open farmland, meadows and field margins.",
         "habitat_local": "Offenes Ackerland, Wiesen und Feldränder.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/european-hare.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:European_hare_(Lepus_europaeus)_Marken_2.jpg"
+          }
+        ]
       },
       {
         "slug": "european-badger",
@@ -500,7 +797,14 @@
         "identify_local": "Grauer Körper mit auffällig schwarz-weiß gestreiftem Gesicht und niedriger, massiger Statur.",
         "habitat_en": "Woodland, hedgerows and pasture with cover for setts.",
         "habitat_local": "Wälder, Hecken und Weiden mit Deckung für den Bau.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/european-badger.webp",
+            "credit": "Charles J. Sharp",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe.jpg"
+          }
+        ]
       },
       {
         "slug": "red-deer",
@@ -513,7 +817,14 @@
         "identify_local": "Großer Hirsch mit rötlichem Fell; männliche Tiere tragen große verzweigte Geweihe.",
         "habitat_en": "Large forests, uplands and open moors and heaths.",
         "habitat_local": "Große Wälder, Bergland sowie offene Moore und Heiden.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/red-deer.webp",
+            "credit": "Lviatour",
+            "license": "CC BY-SA 3.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg"
+          }
+        ]
       },
       {
         "slug": "common-toad",
@@ -526,7 +837,14 @@
         "identify_local": "Warzige braune Haut, kupferfarbene Augen und ein gedrungener Körper, der läuft statt hüpft.",
         "habitat_en": "Woods, gardens and grassland, breeding in ponds and lakes.",
         "habitat_local": "Wälder, Gärten und Grasland, laicht in Teichen und Seen.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/common-toad.webp",
+            "credit": "Tythatguy1312",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Common_Toad_Cornwall.jpeg"
+          }
+        ]
       },
       {
         "slug": "fire-salamander",
@@ -539,7 +857,14 @@
         "identify_local": "Glänzend schwarzer Körper mit kräftigen gelben bis orangefarbenen Flecken oder Streifen.",
         "habitat_en": "Damp deciduous forests near clean streams and springs.",
         "habitat_local": "Feuchte Laubwälder in der Nähe sauberer Bäche und Quellen.",
-        "images": []
+        "images": [
+          {
+            "file": "assets/images/germany/animals/fire-salamander.webp",
+            "credit": "Didier Descouens",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_MHNT_1.jpg"
+          }
+        ]
       }
     ]
   }

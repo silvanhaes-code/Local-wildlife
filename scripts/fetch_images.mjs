@@ -126,8 +126,32 @@ async function leadImage(title, width) {
   return await fileInfo(`File:${name}`, width);
 }
 
-// Search Commons for a file matching a query with an acceptable license.
-async function searchCommons(query, width, { prefer = null, limit = 12 } = {}) {
+const NAME_STOPWORDS = new Set([
+  "common", "european", "eurasian", "northern", "southern", "eastern", "western",
+  "great", "greater", "lesser", "american", "house", "wild", "red", "grey",
+  "gray", "blue", "black", "white", "spotted", "little",
+]);
+
+// Distinctive lowercase tokens identifying a species (genus, epithet, and
+// meaningful words from the English name). Used to reject irrelevant search hits.
+function speciesTokens(entry) {
+  const tokens = new Set();
+  for (const w of (entry.scientific || "").split(/\s+/)) {
+    if (w.length >= 3) tokens.add(w.toLowerCase());
+  }
+  for (const w of (entry.name_en || "").split(/[\s/()-]+/)) {
+    const lw = w.toLowerCase();
+    if (lw.length >= 4 && !NAME_STOPWORDS.has(lw)) tokens.add(lw);
+  }
+  return [...tokens];
+}
+
+const FLIGHT_RX = /\b(flight|flying|wing|spread|soaring)\b/i;
+
+// Search Commons for a file with an acceptable license. If `requireTokens` is
+// given, the file title MUST contain at least one of them (species relevance).
+// If `flight` is set, the title must also read as a flight/wings image.
+async function searchCommons(query, width, { requireTokens = null, flight = false, limit = 20 } = {}) {
   const data = await api(COMMONS, {
     action: "query",
     generator: "search",
@@ -140,20 +164,17 @@ async function searchCommons(query, width, { prefer = null, limit = 12 } = {}) {
   });
   const pages = data?.query?.pages;
   if (!pages) return null;
-  let candidates = Object.values(pages);
-  // rank: prefer titles containing `prefer` keyword (e.g. "flight")
-  if (prefer) {
-    const rx = new RegExp(prefer, "i");
-    candidates.sort((a, b) => (rx.test(b.title) ? 1 : 0) - (rx.test(a.title) ? 1 : 0));
-  }
+  const candidates = Object.values(pages);
   for (const page of candidates) {
+    const title = page.title || "";
+    if (requireTokens && !requireTokens.some((t) => title.toLowerCase().includes(t))) continue;
+    if (flight && !FLIGHT_RX.test(title)) continue;
     const info = page?.imageinfo?.[0];
     if (!info) continue;
     const mime = info.mime || "";
     if (!/^image\/(jpeg|png|webp|tiff|gif)/.test(mime)) continue;
     const license = classifyLicense(info.extmetadata);
     if (!license) continue;
-    if (prefer && !new RegExp(prefer, "i").test(page.title)) continue;
     return {
       thumburl: info.thumburl || info.url,
       credit: stripHtml(info.extmetadata?.Artist?.value) || "Wikimedia Commons",
@@ -193,16 +214,22 @@ async function findMain(entry) {
     const info = await leadImage(t, IMG_WIDTH);
     if (info) return info;
   }
+  // Fallback search must still be about this species.
   return (
-    (await searchCommons(entry.scientific || entry.name_en, IMG_WIDTH)) || null
+    (await searchCommons(entry.scientific || entry.name_en, IMG_WIDTH, {
+      requireTokens: speciesTokens(entry),
+    })) || null
   );
 }
 
 async function findFlight(entry) {
-  const q = `${entry.scientific || entry.name_en} flight`;
-  return (
-    (await searchCommons(q, IMG_WIDTH, { prefer: "flight|flying|wing" })) || null
-  );
+  const tokens = speciesTokens(entry);
+  // Try scientific-name query first (most precise), then common name.
+  for (const q of [`${entry.scientific} in flight`, `${entry.name_en} in flight`]) {
+    const info = await searchCommons(q, IMG_WIDTH, { requireTokens: tokens, flight: true });
+    if (info) return info;
+  }
+  return null;
 }
 
 const credits = []; // {region, category, name, credit, license, source}
