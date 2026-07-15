@@ -139,6 +139,16 @@ body {
   background: var(--surface-2);
 }
 .figure { margin: 0 0 16px; }
+/* Safety net: no image inside a detail view may exceed its container. */
+.detail img { max-width: 100%; height: auto; }
+.figure .fig-img {
+  width: 100%;
+  display: block;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  background: var(--surface-2);
+}
 .figure figcaption {
   font-size: .75rem;
   color: var(--muted);

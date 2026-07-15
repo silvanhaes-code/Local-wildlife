@@ -186,7 +186,7 @@ async function viewDetail(regionId, categoryId, slug) {
     figures.push(
       `<figure class="figure">
         <span class="fig-label">Wings spread</span>
-        ${imgTag(e.flight_image, `${e.name_en} in flight`, "")}
+        ${imgTag(e.flight_image, `${e.name_en} in flight`, "fig-img")}
         <figcaption>${creditLine(e.flight_image)}</figcaption>
       </figure>`
     );

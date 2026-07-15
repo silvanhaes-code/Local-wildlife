@@ -1,6 +1,6 @@
 // Local Wildlife service worker — offline support.
 // App shell is precached; data + images are cached on first use (cache-first).
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL_CACHE = `lw-shell-${VERSION}`;
 const RUNTIME_CACHE = `lw-runtime-${VERSION}`;
 
